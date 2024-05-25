@@ -24,6 +24,9 @@ Dynamic Top N Analysis: Implemented a dynamic measure that allows users to selec
 Profit Margin Analysis by Region: Wrote a DAX measure to calculate the profit margin for each region. Included a dynamic filter to allow users to select specific regions or all regions, and visualize this data on a map.
 
 Year-over-Year Growth Percentage: Created a DAX measure that calculates the Year-over-Year growth percentage for total sales. Used a date slicer to let users dynamically select the year and visualize the growth trend.
+
 Dynamic Ranking with Slicers: Constructed a DAX measure to dynamically rank customers or products based on sales. This allows users to adjust the ranking criteria through slicers, switching between sales, quantity, or profitability.
+
 Dynamic Measure Based on Date Ranges: Created a measure that computes total sales within a user-defined date range. Utilized a DAX measure that adjusts based on the start and end dates provided by the user through a date range slicer.
+
 Time Intelligence Analysis: Did calculation on Year-to-Date (YTD), Quarter-to-Date (QTD), and Month-to-Date (MTD) sales and compare them with the previous periods.
